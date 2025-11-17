@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Wireless Headphones",
+    "price": 2999.99,
+    "img": "images/wirelessHeadset.jpg"
+  },
+  {
+    "title": "Smart Watch",
+    "price": 4599.99,
+    "img": "images/smartWatch.jpg"
+  },
+  {
+    "title": "Running Shoes",
+    "price": 5299.99,
+    "img": "images/runningShoes.jpg"
+  },
+  {
+    "title": "Classic Backpack",
+    "price": 2099.99,
+    "img": "images/backPack.jpg"
+  }
+]
